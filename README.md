@@ -2,14 +2,17 @@
 
 <br></br>
 
+<p align="center">
+<img src="header.svg" />
+</p>
 
 &nbsp;
 
  <div style="display:flex">
  <div align="center">
-  <a href="https://github.com/Raulhiago">
-   <img src="https://github-readme-stats.vercel.app/api?username=Raulhiago&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulhiago&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/amandadrehmer">
+   <img src="https://github-readme-stats.vercel.app/api?username=amandadrehmer&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandadrehmer&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
   </div> 
@@ -18,7 +21,8 @@
 <div align="center">
  <br>
  
-
+<a href="https://www.linkedin.com/in/amanda-silveira-258ab5267" target="_blank"></a> 
+ 
  <br>
  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
